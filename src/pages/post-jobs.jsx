@@ -1,5 +1,5 @@
 import { getCompanies } from "@/api/apiCompanies";
-import { addNewJob } from "@/api/apiJobs";
+import { addNewJob } from "@/api/apijobs";
 import AddCompanyDrawer from "@/components/add-company-drawer";
 import { Button } from "@/components/ui/button";
 
